@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @goel04
+- 👋 Hi, I’m @Lakshay Goel
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 🌱 I’m currently learning Java and c++ 
+- 📫 How to reach me :
+- lakshaygoel611@gmail.com
 
 <!---
 goel04/goel04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
